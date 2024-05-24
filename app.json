@@ -1,15 +1,15 @@
 {
-  "name": "SIGMA-MD WHATSAPP BOT BY MAHER ZUBAIR",
+  "name": "Sial-MD WHATSAPP BOT BY MAHER ZUBAIR",
   "description": "A Whatsapp Bot With Most Premium Features Makes Your Whatsapp Premium. For Any Help See My YT:https://www.youtube.com/@InnoxentTech",
   "logo": "https://telegra.ph/file/e5768d0b5a4441b4e576b.jpg",
   "keywords": [
     "nodejs",
     "bot",
     "whatsapp bot",
-    "SIGMA_MD",
-    "SIGMA_BOT",
-    "SIGMA",
-    "SIGMA_MD-BOT",
+    "Sial_MD",
+    "Sial_BOT",
+    "Sial",
+    "Sial_MD-BOT",
     "Multi-Themes Bot",
     "multi device"
   ],
@@ -17,8 +17,8 @@
   "stack": "container",
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",
-      "value": "Maher Zubair"
+      "description": "Mahar Haider Sial",
+      "value": "Maher Haider"
     },
     "THUMB_IMAGE": {
       "description": "THUMBNAIL Image for bot.",
@@ -36,7 +36,7 @@
     "ANTILINK_VALUES": {
       "description": "Put antilink values. IT will take action on below links , change according to your need",
       "value": "https://,chat.whatsapp.com,youtube.com,instagram.com,tiktok.com,vt.tiktok.com,wa.me,facebook.com",
-      "required": false
+      "required": true
     },
     "ANTI_BAD_WORDS": {
       "description": "Add Anti Bad_Words. Change or add according to your need",
@@ -51,7 +51,7 @@
     "DISABLE_PM": {
       "description": "Disable bot in pm, Take it false if you wanna run bot in your pm",
       "value": "false",
-      "required": false
+      "required": true
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot.",
@@ -59,11 +59,10 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923466319114"
+      "value": "923317776561"
     },
     "SESSION_ID": {
-      "description": "Please put your SESSION_ID here,if you don't have visit to get Session id\nhttps://sessions.maher-zubair.tech"
-    },
+      "description": "24_05_2024_SIGMA_MD_EA7aMr9i_MAHER_ZUBAIR},
     "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
       "value": "",
@@ -97,7 +96,7 @@
       "value": "Asia/Karachi"
     },
     "BOT_NAME": {
-      "description": "Add Your Own Bot Name",
+      "description": "Sial MD",
       "value": "sɪɢᴍᴀ-ᴍᴅ"
     }
   },
